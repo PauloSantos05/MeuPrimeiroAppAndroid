@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Fuel Calculator</string>
+    <string name="titulo">Fuel Economy Calculator</string>
+    <string name="kminicial">Initial Km</string>
+    <string name="kmfinal">Final Km</string>
+    <string name="capacid">Capacity</string>
+    <string name="consumido">Consumed</string>
+    <string name="consumidoR">Consumed: </string>
+    <string name="desloc">Displacement: </string>
+    <string name="auto">Autonomy: </string>
+    <string name="calculate">Calculate</string>
+</resources>
